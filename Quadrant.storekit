@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "QUADRANT_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "quadrant_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock the weekly trend, quadrant analytics, recurring tasks and sharing. One-time purchase.",
+          "displayName" : "Quadrant Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "quadrant_pro_unlock",
+      "referenceName" : "Quadrant Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
